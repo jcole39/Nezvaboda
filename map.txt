@@ -1,0 +1,14 @@
+									
+									
+									
+ParlourHallwayBend	ZombieHallway	ParlourHallway	WretchedZombieBathroom			ParlourHallway			
+BatHallway						ParlourHallway		LeaveParlourRoom	
+ParlourHallway			ParlourHallway	FindRockRoom	ParlourHallway	ParlourHallwayT		ParlourHallway	
+ParlourHallway				ParlourHallway		ParlourHallway	ParlourHallway	ParlourHallwayT	
+ParlourHallwayT	BatHallway	StartingRoom	ParlourHallway	ParlourHallwayBend		ParlourHallway		ParlourHallway	
+ParlourHallway		ParlourHallway				ParlourHallwayT	ParlourHallway	ParlourHallwayT	FindHealingPotionRoom
+ZombieHallway		ParlourHallwayT	ParlourHallway	ParlourHallway	ParlourHallwayT	ParlourHallwayBend			
+ParlourHallwayBend	ParlourHallway	ParlourHallway			ParlourHallway				
+		ParlourHallway		SpectreObservatory	ParlourHallway				
+		ParlourHallway			ParlourHallway				
+		ParlourHallwayBend	ParlourHallway	ParlourHallway	ParlourHallwayBend				
